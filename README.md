@@ -1,5 +1,5 @@
 # FileSentinel
-FILE SENTINEL Advanced Hybrid Safety Analysis Tool for Windows Version 2.0
+FILE SENTINEL Advanced Hybrid Safety Analysis Tool for Windows
 FileSentinel is an independent desktop tool meant to serve power-users, system administrators, or those interested in computer security. It offers multi-level safety analysis for files with .exe or .dll extensions and can help determine if such files can be classified into malicious ones or marked as harmless errors showing false positives. While traditional virus scanners can only alert about malicious files, “FileSentinel offers an innovative solution based on the ’Semantic Analysis Engine.’ It tries to differentiate between malicious files (Trojans, Ransomware, Stealers) and harmless applications commonly misidentified by AV vendors (Keygens, GameTrainers, Admin Tools). It’s built using:”
 
 Online Analysis: Utilizes VirusTotal API for global consensus.
