@@ -56,4 +56,4 @@ LIKELY SAFE (Tool/Keygen): High number of detections but semantic interpretation
 
 SUSPICIOUS: Data conflicts or generic heuristic clues.
 
-MALICIOUS: Known presence of specific types of malware (Trojan, Ransomware HIGH RISK (Installer): It’s an installer and therefore not amenable to analysis unless it’s run.
+MALICIOUS: Known presence of specific types of malware (Trojan, Ransomware HIGH RISK (Installer): It’s an installer and therefore not amenable to analysis unless it’s run. (Do not follow this anymore i added yara rules to my new recent upds that are unreleased but itds mostly the same...)
